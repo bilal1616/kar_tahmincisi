@@ -16,19 +16,19 @@
 ## 📸 Uygulama Ekran Görüntüleri
 
 ### 🌨️ Splash Screen
-![Splash Screen](assets/images/screenshot1.png)
+<img src="assets/images/Screenshot1.png" width="600">
 
 ### 📊 SideMenu Navigasyon
-![SideMenu Navigasyon](assets/images/screenshot2.png)
+<img src="assets/images/Screenshot2.png" width="600">
 
 ### 🌐 SideMenu Navigasyon Yönlendirme
-![SideMenu Navigasyon Yönlendirme](assets/images/screenshot3.png)
+<img src="assets/images/Screenshot3.png" width="600">
 
 ### 🧭 Model Görünümü
-![Model Görünümü](assets/images/screenshot4.png)
+<img src="assets/images/Screenshot4.png" width="600">
 
 ### 📅 AnaSayfa
-![AnaSayfa](assets/images/screenshot5.png)
+<img src="assets/images/Screenshot5.png" width="600">
 
 ---
 
